@@ -2,7 +2,7 @@
 - 👀 I’m interested in History, Wine and Whisky
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Spirit & Destilates websites.
-- 📫 How to reach me ...
+- 📫 How to reach me gonzalo-padin@hotmail.com
 
 <!---
 Gonzalo-Padin/Gonzalo-Padin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
